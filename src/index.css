@@ -1,0 +1,11 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Sora', Sans-serif;
+	color: #000000 !important;
+}
+
+* {
+	box-sizing: border-box;
+	font-family: 'Sora', Sans-serif;
+}
