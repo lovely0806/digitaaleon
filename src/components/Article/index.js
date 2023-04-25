@@ -40,8 +40,7 @@ export const ArticleCard = () => {
 					has emerged: the data model, also known as a star model. If you are working with Power
 					Pivot, Power BI or another BI solution, the data is delivered in what is called a star
 					model. In this free video course, you will learn to understand a data model so that you
-					are prepared for this way of structuring data. A must for people working with Power BI and
-					Power Pivot.
+					are prepared for this way of structuring data. A must for people working with Power BI.
 				</p>
 				<Box
 					sx={{
